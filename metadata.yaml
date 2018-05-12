@@ -1,5 +1,8 @@
 _repo: C--tait-ainsi..._10346
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buysse, Cyriël
@@ -12,6 +15,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10346#C--tait-ainsi...
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
